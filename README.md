@@ -9,3 +9,8 @@ Tutorials can be found [here]()
 <br>
 To download ML code on your machine:
 `git clone https://github.com/SarCode/ML-Code-Tutorials-Udemy.git`
+<br>
+
+## Important
+
+To find a suitable algorithm for your dataset use this [cheat-sheet](https://github.com/SarCode/ML-Code-Tutorials-Udemy/blob/master/ml_map.webp?raw=true)
