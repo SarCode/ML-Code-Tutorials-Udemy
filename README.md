@@ -8,6 +8,7 @@ Tutorials can be found [here](https://drive.google.com/drive/folders/1Wbg45r77h8
 <br>
 <br>
 To download ML code on your machine:
+<br>
 `git clone https://github.com/SarCode/ML-Code-Tutorials-Udemy.git`
 <br>
 
